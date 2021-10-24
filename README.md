@@ -13,13 +13,13 @@ La actividad consiste en crear un sistema de creación de memes para una comunid
 
 #### Items de evaluación:
 ###### OBLIGATORIOS:  
-[ ] CRUD Usuarios  
-[ ] Login/logout  
-[ ] Control de sesión de usuario  
-[ ] Creación de memes  
-	[ ] Listado de memes disponibles
-	[ ] Ajuste de literales según el meme
-	[ ] Visualización de la imagen generada
+- [ ] CRUD Usuarios  
+- [ ] Login/logout  
+- [ ] Control de sesión de usuario  
+- [ ] Creación de memes  
+	- [ ] Listado de memes disponibles  
+	- [ ] Ajuste de literales según el meme  
+	- [ ] Visualización de la imagen generada  
 
 
 
