@@ -11,6 +11,11 @@ La actividad consiste en crear un sistema de creación de memes para una comunid
 	- Descargando imágenes y usando librería [GD](https://www.php.net/manual/es/book.image.php)
 5. Los usuarios podrán añadir, borrar y filtrar memes por su denominación  
 
+#### Entrega:
+La entrega será a través del pull request de este repositorio.  
+
+Es importante incluir un archivo .sql con las sentencias para crear las tablas y datos necesarios para el funcionamiento corerecto de la aplicación.  
+
 #### Items de evaluación:
 ###### OBLIGATORIOS:  
 - [ ] CRUD Usuarios  
@@ -20,7 +25,15 @@ La actividad consiste en crear un sistema de creación de memes para una comunid
 	- [ ] Listado de memes disponibles  
 	- [ ] Ajuste de literales según el meme  
 	- [ ] Visualización de la imagen generada  
+- [ ] Listado de memes creados por un usuario
 
+###### OPCIONALES:
+- [ ] Filtro de memes por denominación
+- [ ] Estilo y diseño frontend
 
+#### Plazo:
+1. Primera revisión: 29/10/2021
+2. Entrega: 05/11/2021
 
-#### Plazos:
+#### Ejemplos de código:
+[]()
