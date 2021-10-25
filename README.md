@@ -36,5 +36,5 @@ Es importante incluir un archivo .sql con las sentencias para crear las tablas y
 2. Entrega: 05/11/2021
 
 #### Ejemplos de código:
-######NOTA: Asegúrate haber hecho ```docker pull fjortegan/dwes:php```
+###### NOTA: Asegúrate haber hecho ```docker pull fjortegan/dwes:php```
 []()
