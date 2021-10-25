@@ -35,6 +35,9 @@ Es importante incluir un archivo .sql con las sentencias para crear las tablas y
 1. Primera revisión: 29/10/2021
 2. Entrega: 05/11/2021
 
-#### Ejemplos de código:
+#### Ejemplos de código usando API:
+[Obtener listado de memes](codigophp/ejemplos/recibir-json.php)  
+[Crear un meme](codigophp/ejemplos/peticion-post.php)  
+
+
 ###### NOTA: Asegúrate haber hecho ```docker pull fjortegan/dwes:php```
-[]()
