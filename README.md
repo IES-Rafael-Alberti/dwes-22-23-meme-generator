@@ -30,6 +30,7 @@ Es importante incluir un archivo .sql con las sentencias para crear las tablas y
 ###### OPCIONALES:
 - [ ] Filtro de memes por denominación
 - [ ] Estilo y diseño frontend
+- [ ] Uso de otras API o librerías
 
 #### Plazo:
 1. Primera revisión: 29/10/2021
@@ -39,5 +40,8 @@ Es importante incluir un archivo .sql con las sentencias para crear las tablas y
 [Obtener listado de memes](codigophp/ejemplos/recibir-json.php)  
 [Crear un meme](codigophp/ejemplos/peticion-post.php)  
 
+#### Ejemplos de código usando librería GD:
+[Devolver una imagen con texto](codigophp/ejemplos/imagen-mod.php) 
+ 
 
 ###### NOTA: Asegúrate haber hecho ```docker pull fjortegan/dwes:php```
