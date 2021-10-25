@@ -14,7 +14,7 @@ La actividad consiste en crear un sistema de creación de memes para una comunid
 #### Entrega:
 La entrega será a través del pull request de este repositorio.  
 
-Es importante incluir un archivo .sql con las sentencias para crear las tablas y datos necesarios para el funcionamiento corerecto de la aplicación.  
+Es importante incluir un archivo .sql con las sentencias para crear las tablas y datos necesarios para el funcionamiento correcto de la aplicación.  
 
 #### Items de evaluación:
 ###### OBLIGATORIOS:  
@@ -36,4 +36,5 @@ Es importante incluir un archivo .sql con las sentencias para crear las tablas y
 2. Entrega: 05/11/2021
 
 #### Ejemplos de código:
+######NOTA: Asegúrate haber hecho ```docker pull fjortegan/dwes:php```
 []()
