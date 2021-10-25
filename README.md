@@ -42,6 +42,7 @@ Es importante incluir un archivo .sql con las sentencias para crear las tablas y
 
 #### Ejemplos de código usando librería GD:
 [Devolver una imagen con texto](codigophp/ejemplos/imagen-mod.php) 
+[Usar imagen modificada](codigophp/ejemplos/muestra-imagen.php) 
  
 
 ###### NOTA: Asegúrate haber hecho ```docker pull fjortegan/dwes:php```
