@@ -29,6 +29,7 @@ Es importante incluir un archivo .sql con las sentencias para crear las tablas y
 
 ###### OPCIONALES:
 - [ ] Filtro de memes por denominación
+- [ ] Foto de perfil de usuario
 - [ ] Estilo y diseño frontend
 - [ ] Uso de otras API o librerías
 
@@ -42,6 +43,7 @@ Es importante incluir un archivo .sql con las sentencias para crear las tablas y
 
 #### Ejemplos de código usando librería GD:
 [Subir una imagen](codigophp/ejemplos/sube-imagen.php)   
+[Subida archivos w3Schools](https://www.w3schools.com/php/php_file_upload.asp)   
 [Devolver una imagen con texto](codigophp/ejemplos/imagen-mod.php)   
 [Usar imagen modificada](codigophp/ejemplos/muestra-imagen.php)  
  
